@@ -4,7 +4,7 @@ A simple temperature converter web application built with HTML, CSS, and JavaScr
 
 ## Live Demo
 
-Try out the Temperature Converter [here]([https://your-website-url.com](https://rohithaaiswarya16.github.io/Temperature_Converter/)).
+Try out the Temperature Converter [here](https://rohithaaiswarya16.github.io/Temperature_Converter/).
 
 ## Features
 
