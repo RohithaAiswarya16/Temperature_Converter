@@ -59,16 +59,16 @@
   
   .select-group label {
     display: block;
-    margin-bottom: 10px; /* Increase margin-bottom value */
-    width: 80px; /* Increase width value */
+    margin-bottom: 10px;
+    width: 80px;
     color: #8a2be2;
   }
   
   .select-group select {
     flex-grow: 1;
-    padding: 8px; /* Increase padding value */
+    padding: 8px;
     border: 1px solid #8a2be2;
-    border-radius: 5px; /* Increase border-radius value */
+    border-radius: 5px;
     color: #333333;
     background-color: #ffffff;
     transition: box-shadow 0.3s ease, transform 0.3 ease;
